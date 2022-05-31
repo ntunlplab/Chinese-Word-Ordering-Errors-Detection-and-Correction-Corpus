@@ -1,4 +1,4 @@
-# Chinese-Word-Ordering-Errors-Detection-and-Correction-Corpus
+# Chinese Word Ordering Errors Detection and Correction Corpus
 
 
 # 1. Dataset content
