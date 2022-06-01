@@ -8,9 +8,6 @@ This dataset is composed of 3 text files.
 - [sent-annotator1.txt](http://nlg.csie.ntu.edu.tw/nlpresource/woe_corpus/sent-annotator1.txt)
 - [sent-annotator2.txt](http://nlg.csie.ntu.edu.tw/nlpresource/woe_corpus/sent-annotator2.txt)
 
-### 
-Please go to [resources page](http://nlg.csie.ntu.edu.tw/nlpresource/woe_corpus/) to access resources.
-
 ## 2. Data source
 In this dataset, sentences are retrieved from HSK dynamic composition corpus (HSK 動態作文語料庫), which is built by Beijing Language and Culture University. This corpus contains the Chinese composition articles in HSK examination written by non-native Chinese learners.
 
